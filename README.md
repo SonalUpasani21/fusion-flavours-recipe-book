@@ -65,12 +65,12 @@ Of the 22 students who responded to the feedback survey:
 - **Microsoft Word** — Project charter and documentation
 
 ---
-
 ## Notes
 
-- All respondent names in the feedback file have been anonymized to initials for privacy
-- Team member names have been replaced with Team Member A and Team Member B throughout project documents
-- Recipe images were sourced from free stock platforms for academic use only
+All respondent names in the feedback file have been anonymized to initials for privacy
+Team member names have been replaced with Team Member A and Team Member B throughout project documents
+Recipe images were generated using Canva AI for academic use only
+Recipes were sourced from the internet, family, and friends
 
 ---
 
