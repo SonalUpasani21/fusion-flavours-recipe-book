@@ -6,7 +6,7 @@ A student-focused digital cookbook developed as a full end-to-end project manage
 
 ## Project Overview
 
-Fusion Flavours is a digital cookbook designed for college students seeking affordable, culturally diverse, and beginner-friendly recipes. The project combined structured project management methodology with real deliverable production — resulting in a 33-page cookbook, a feedback survey, and a complete set of project documentation.
+Fusion Flavours is a digital cookbook designed for college students seeking affordable, culturally diverse, and beginner-friendly recipes. The project combined structured project management methodology with real deliverable production resulting in a 33-page cookbook, a feedback survey, and a complete set of project documentation.
 
 ---
 
