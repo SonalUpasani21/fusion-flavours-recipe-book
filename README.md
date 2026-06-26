@@ -30,7 +30,7 @@ Fusion Flavours is a digital cookbook designed for college students seeking affo
 | File | Description |
 |---|---|
 | `Fusion_Flavours_Recipe_Book.pdf` | Final 33-page digital cookbook designed in Canva |
-| `Project_Charter.docx` | Full project charter including scope, stakeholder analysis, risk plan, feasibility study, and timeline |
+| `Project_Charter.pdf` | Full project charter including scope, stakeholder analysis, risk plan, feasibility study, and timeline |
 | `Gantt_Chart.xlsx` | Work breakdown structure and Gantt chart tracking all project tasks, owners, dates, and costs |
 | `Feedback_Responses.xlsx` | Anonymized survey responses from 22 student respondents |
 
